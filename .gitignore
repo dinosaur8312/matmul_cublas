@@ -1,0 +1,68 @@
+# CMake generated files
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Executable files
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# CUDA cache files
+*.ptx
+*.cubin
+
+# IDE/project-specific files
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Debugger files
+*.dSYM/
+*.stackdump
+*.core
+
+# Python environment (if you have any Python bindings or scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Binary files
+*.bin
+
+# Git-specific files
+*.orig
+
+# Generated documentation
+/docs/html/
+*.pdf
+*.docx
+*.tex
+
+# Miscellaneous temporary files
+*.tmp
+*.lock
